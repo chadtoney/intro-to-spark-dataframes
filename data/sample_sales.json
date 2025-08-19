@@ -1,0 +1,12 @@
+[
+  {"sale_id": 1, "customer_id": 1, "product": "Laptop", "amount": 1299.99, "sale_date": "2024-08-01"},
+  {"sale_id": 2, "customer_id": 2, "product": "Phone", "amount": 899.99, "sale_date": "2024-08-02"},
+  {"sale_id": 3, "customer_id": 1, "product": "Headphones", "amount": 199.99, "sale_date": "2024-08-03"},
+  {"sale_id": 4, "customer_id": 3, "product": "Tablet", "amount": 599.99, "sale_date": "2024-08-04"},
+  {"sale_id": 5, "customer_id": 4, "product": "Watch", "amount": 399.99, "sale_date": "2024-08-05"},
+  {"sale_id": 6, "customer_id": 2, "product": "Laptop", "amount": 1599.99, "sale_date": "2024-08-06"},
+  {"sale_id": 7, "customer_id": 5, "product": "Phone", "amount": 799.99, "sale_date": "2024-08-07"},
+  {"sale_id": 8, "customer_id": 3, "product": "Headphones", "amount": 149.99, "sale_date": "2024-08-08"},
+  {"sale_id": 9, "customer_id": 6, "product": "Tablet", "amount": 699.99, "sale_date": "2024-08-09"},
+  {"sale_id": 10, "customer_id": 1, "product": "Watch", "amount": 299.99, "sale_date": "2024-08-10"}
+]
