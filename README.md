@@ -30,7 +30,7 @@ Most Spark DataFrame tutorials require external dependencies that aren't always 
 
 ## 📚 What's Inside
 
-This collection provides comprehensive tutorials on **PySpark DataFrames** through three progressive notebooks:
+This collection provides comprehensive tutorials on **PySpark DataFrames** through three progressive, self-contained notebooks:
 
 ### 📓 Notebooks
 
